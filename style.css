@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'TimelessRadianceScript';
+    src: url('./TimelessRadianceScript.ttf') format('truetype');
+  }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+  
+  h1{
+    font-family: 'TimelessRadianceScript';
+    font-size: 90px;
+  }
+  
+  p{
+    font-family: 'Roboto', sans-serif;
+  }
